@@ -2,6 +2,7 @@
 *.py[cod]
 *~
 __pycache__/
+jmad/jmad/__pycache__/
 db.sqlite3
 /static
 .DS_Store
